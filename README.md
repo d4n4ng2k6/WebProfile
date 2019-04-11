@@ -1,2 +1,2 @@
 # WebProfile
-My Profile expalined in Website
+My Profile explained in Website
