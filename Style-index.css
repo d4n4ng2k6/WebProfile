@@ -2,6 +2,10 @@ body{
     background-color:rgb(190,190,190);
 }
 h1{
-    background: black;
-    color: white;
+    background-color: rgb(110,110,110);
+    font-: white;
+    top: 50px;
+    left: 50px;
+    right: 50px;
+    bottom: 100px;
 }
