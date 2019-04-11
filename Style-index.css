@@ -1,12 +1,14 @@
-body{
-    background-color:rgb(190,190,190);
-}
-h1{
+.Headings{
     top: 50px;
     left: 50px;
     right: 50px;
     bottom: 100px;
-    background-color: rgb(110,110,110);
-    font-: white;
-    
+    background-color: darkgray;
 }
+
+body{
+    background-color:rgb(190,190,190);
+}
+h1{    
+   font-: white;
+   }
